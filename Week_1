@@ -1,0 +1,32 @@
+# g-kay
+VERSİYON KONTROL SİSTEMLERİ (VSC) 
+
+Bir dosyada ya da bir dizi dosyada değişiklik yapmaya, bu değişiklikleri izlemeye ve yönetmeye yarayan bir sistemdir. 
+
+VSC geliştiricilerin aynı anda projeler üzerinde çalışmasına ve bu çalışmalardaki değişiklikleri analiz etmelerinde yardımcı olur. 
+
+Bir hata yapıldığında geriye dönülmesine olanak sağlar. 
+
+VSC yapılan değişikliklerin kim tarafından ne zaman yapıldığını da kaydederek bu şekilde bir izlenim sağlar. 
+
+ 
+
+VSC TÜRLERİ 
+
+Yapılarına göre üç farklı şekilde sınıflandırılabilir. 
+
+Yerel Versiyon Kontrol Sistemi 
+
+Merkezi Versiyon Kontrol Sistemi 
+
+Dağıtık Versiyon Kontrol Sistemi 
+
+ 
+
+GİT 
+
+Dağıtık versiyon kontrol sistemidir. 
+
+Kodun bir önceki haliyle şimdiki halini karşılaştırabilir. 
+
+İşler ters giderse kodun bir önceki haline dönmesini sağlar. 
